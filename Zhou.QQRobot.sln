@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zhou.QQRobot.CQP", "src\Zhou.QQRobot\Zhou.QQRobot.CQP\Zhou.QQRobot.CQP.csproj", "{FBC99A97-E0FA-4D2F-A99C-A08C158049D0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{597464F4-9806-4871-8FEF-3C3DB6874519}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBC99A97-E0FA-4D2F-A99C-A08C158049D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC99A97-E0FA-4D2F-A99C-A08C158049D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC99A97-E0FA-4D2F-A99C-A08C158049D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC99A97-E0FA-4D2F-A99C-A08C158049D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F97468F-0EC3-4DFB-BB41-321F4AB10151}
+	EndGlobalSection
+EndGlobal
